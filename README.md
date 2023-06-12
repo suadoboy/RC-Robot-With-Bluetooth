@@ -57,6 +57,9 @@ Now that you have the RC Robot fully assembled, it's time to configure it for op
 5. Upload the code to your Arduino board.
 6. Power up the RC Robot and establish a Bluetooth connection with your control device.
 
+### Code View
+![image](https://github.com/suadoboy/RC-Robot-With-Bluetooth/assets/64054172/6f4e9136-a104-423b-a37c-51dcfd652773)
+
 Congratulations! You have successfully downloaded, printed, assembled, and configured the RC Robot With Bluetooth. You are now ready to enjoy controlling your robot wirelessly!
 
 For more information and advanced functionalities, refer to the [Documentation](docs/) section and explore the example projects provided in the [Examples](examples/) directory of the repository.
