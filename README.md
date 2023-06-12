@@ -30,11 +30,11 @@ Now that you have the 3D printable files, it's time to print the parts for the R
 3. Adjust the printing settings according to your printer and filament specifications.
 4. Start the printing process and wait for the parts to be fully printed.
 
-####Bottom Part
+###Bottom Part
 ![bottom](https://github.com/suadoboy/RC-Robot-With-Bluetooth/assets/64054172/f1698554-ad6a-4b18-a47f-328692220085)
-####Top part
+###Top part
 ![top](https://github.com/suadoboy/RC-Robot-With-Bluetooth/assets/64054172/57b9c738-bd1a-415f-8dbf-2b6955537e4b)
-####Wheels (remeber to print this piece twice)
+###Wheels (remeber to print this piece twice)
 ![wheel](https://github.com/suadoboy/RC-Robot-With-Bluetooth/assets/64054172/9be77e6d-f89a-4c4b-b9db-91f37261c42d)
 
 ### Step 3: Assembling the RC Robot
